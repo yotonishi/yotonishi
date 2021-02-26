@@ -15,6 +15,7 @@
 ### Each card usage
 ---
 
+<<<<<<< HEAD
 ![](./0-profile-details.svg)
 
 ```
@@ -25,6 +26,8 @@
 
 ---
 
+=======
+>>>>>>> d62c3382d9b2ca93ca79cab09c42c85b5445fd11
 ![](./1-repos-per-language.svg)
 
 ```
@@ -32,6 +35,7 @@
 ```
 
     
+<<<<<<< HEAD
 
 ---
 
@@ -62,3 +66,5 @@
 ```
 
     
+=======
+>>>>>>> d62c3382d9b2ca93ca79cab09c42c85b5445fd11
